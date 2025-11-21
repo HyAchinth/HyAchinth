@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Achinthya Sreedhar  
-**AI/ML Engineer | Data Science | Scalable Systems**
+**AI/ML Engineer | Data Science & Analytics**
 
 I work across the full machine learning lifecycle—**data ingestion, feature engineering, modeling, deployment, and monitoring**.  
 My recent work focuses on **AI/ML engineering**, including MLOps pipelines, LLM workflows, agentic systems, and production-grade model deployment.  
